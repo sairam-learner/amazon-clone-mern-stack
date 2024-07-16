@@ -21,4 +21,5 @@ Amazona is a full-stack e-commerce web application inspired by Amazon. It is bui
 - MongoDB (local instance or MongoDB Atlas)
 - npm or yarn
 
+The public file contains the Images related to the frontend as the file size is large we had to compressed it and the public folder should be in frontend folder.
 
